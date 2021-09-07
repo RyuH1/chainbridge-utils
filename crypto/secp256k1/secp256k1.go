@@ -6,9 +6,9 @@ package secp256k1
 import (
 	"crypto/ecdsa"
 
-	"github.com/Ryuh1/chainbridge-utils/crypto"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/common/hexutil"
+	"github.com/ryuh1/chainbridge-utils/crypto"
 
 	secp256k1 "github.com/ethereum/go-ethereum/crypto"
 )

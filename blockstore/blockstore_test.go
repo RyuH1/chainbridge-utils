@@ -9,8 +9,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/Ryuh1/chainbridge-utils/keystore"
-	"github.com/Ryuh1/chainbridge-utils/msg"
+	"github.com/ryuh1/chainbridge-utils/keystore"
+	"github.com/ryuh1/chainbridge-utils/msg"
 )
 
 func TestSaveAndLoad(t *testing.T) {
