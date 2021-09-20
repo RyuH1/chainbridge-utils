@@ -6,10 +6,10 @@ package keystore
 import (
 	"fmt"
 
-	"github.com/centrifuge/go-substrate-rpc-client/v3/signature"
 	"github.com/ryuh1/chainbridge-utils/crypto"
 	"github.com/ryuh1/chainbridge-utils/crypto/secp256k1"
 	"github.com/ryuh1/chainbridge-utils/crypto/sr25519"
+	"github.com/ryuh1/go-substrate-rpc-client/v3/signature"
 )
 
 // The Constant "keys". These are the name that the keys are based on. This can be expanded, but
